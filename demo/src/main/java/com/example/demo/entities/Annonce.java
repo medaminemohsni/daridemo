@@ -105,6 +105,6 @@ public class Annonce {
 	public void setUser(User user) {
 		this.user = user;
 	}
-
+//.
 	
 }
